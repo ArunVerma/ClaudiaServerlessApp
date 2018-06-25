@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "stripePayment-executor",
+    "name": "stripePayment",
+    "region": "us-east-2"
+  },
+  "api": {
+    "id": "kngjrw28hi",
+    "module": "app"
+  }
+}
